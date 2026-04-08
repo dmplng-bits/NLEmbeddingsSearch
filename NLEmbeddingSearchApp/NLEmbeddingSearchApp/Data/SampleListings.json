@@ -1,0 +1,58 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440001",
+        "title": "Quiet coffee shop with WiFi",
+        "description": "A peaceful spot with fast internet, perfect for remote work",
+        "category": "cafe",
+        "rating": 4.7
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440002",
+        "title": "Sunny rooftop coworking",
+        "description": "Open-air workspace with city views and standing desks",
+        "category": "coworking",
+        "rating": 4.5
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440003",
+        "title": "Italian trattoria downtown",
+        "description": "Authentic pasta and wood-fired pizza in a cozy setting",
+        "category": "restaurant",
+        "rating": 4.8
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440004",
+        "title": "Riverside park with benches",
+        "description": "Quiet green space along the water, great for reading",
+        "category": "outdoors",
+        "rating": 4.3
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440005",
+        "title": "24-hour diner",
+        "description": "Classic American diner with bottomless coffee and late-night vibes",
+        "category": "restaurant",
+        "rating": 4.1
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440006",
+        "title": "Library reading room",
+        "description": "Historic building with high ceilings and complete silence",
+        "category": "coworking",
+        "rating": 4.6
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440007",
+        "title": "Artisan bakery and cafe",
+        "description": "Fresh pastries, single-origin espresso, and communal tables",
+        "category": "cafe",
+        "rating": 4.9
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440008",
+        "title": "Botanical garden",
+        "description": "Lush outdoor space with walking paths and seasonal flowers",
+        "category": "outdoors",
+        "rating": 4.4
+    }
+]

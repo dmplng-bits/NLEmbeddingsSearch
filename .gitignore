@@ -1,0 +1,29 @@
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift/Obj-C build artifacts
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS
+.DS_Store
+._*
+
+# Environment
+.env
