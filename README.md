@@ -96,7 +96,7 @@ NLEmbeddingSearch/
 
 ## Why this exists
 
-I built a production version of this concept at J.B.S., where keyword search wasn't cutting it for listing discovery. This is a clean, open-source demonstration of the same techniques — NLEmbedding for semantic matching, NLTagger for intent extraction — without any proprietary code.
+This is a concept version for learning, where keyword search wasn't cutting it for listing discovery. This is a clean, open-source demonstration of the same techniques — NLEmbedding for semantic matching, NLTagger for intent extraction without any proprietary code.
 
 ## License
 
